@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Application multilingue</string>
+    <string name="welcome_back">Bon retour !</string>
+    <string name="username_hint">Nom d\'utilisateur</string>
+    <string name="password_hint">Mot de passe</string>
+    <string name="login">Se connecter</string>
+    <string name="change_language">Changer la langue</string>
+    <string name="choose_language">Choisir la langue :</string>
+    <string name="english">Anglais</string>
+    <string name="hindi">Hindi</string>
+    <string name="french">Français</string>
+</resources>

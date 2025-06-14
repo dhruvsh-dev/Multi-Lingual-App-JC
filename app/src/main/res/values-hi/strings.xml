@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">मल्टी-लैंग्वेज ऐप</string>
+    <string name="welcome_back">वापसी पर स्वागत है!</string>
+    <string name="username_hint">उपयोगकर्ता नाम</string>
+    <string name="password_hint">पासवर्ड</string>
+    <string name="login">लॉगिन</string>
+    <string name="change_language">भाषा बदलें</string>
+    <string name="choose_language">भाषा चुनें:</string>
+    <string name="english">अंग्रेज़ी</string>
+    <string name="hindi">हिन्दी</string>
+    <string name="french">फ़्रेंच</string>
+</resources>
