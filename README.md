@@ -34,7 +34,7 @@ Users can instantly switch between supported languages without needing to restar
 
 ---
 
-## 📢 Let's Connect!
+## 📢 Let's Connect! 
 
 💬 Your feedback means a lot — open to improvements and suggestions!
 
